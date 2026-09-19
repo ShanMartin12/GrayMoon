@@ -1,0 +1,17 @@
+export const images = {
+  electronics: 'https://images.pexels.com/photos/5554948/pexels-photo-5554948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  electronics2: 'https://images.pexels.com/photos/4211136/pexels-photo-4211136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  electronics3: 'https://images.pexels.com/photos/18471537/pexels-photo-18471537.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  textiles: 'https://images.pexels.com/photos/31199588/pexels-photo-31199588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  textiles2: 'https://images.pexels.com/photos/31212949/pexels-photo-31212949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  textiles3: 'https://images.pexels.com/photos/8246480/pexels-photo-8246480.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  machinery: 'https://images.pexels.com/photos/236709/pexels-photo-236709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  machinery2: 'https://images.pexels.com/photos/4832564/pexels-photo-4832564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  machinery3: 'https://images.pexels.com/photos/34718922/pexels-photo-34718922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  cargoShip: 'https://images.pexels.com/photos/15346128/pexels-photo-15346128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  cargoShip2: 'https://images.pexels.com/photos/93106/pexels-photo-93106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  cargoPort: 'https://images.pexels.com/photos/31244440/pexels-photo-31244440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  handshake: 'https://images.pexels.com/photos/6930300/pexels-photo-6930300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  handshake2: 'https://images.pexels.com/photos/8939052/pexels-photo-8939052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  handshake3: 'https://images.pexels.com/photos/5833238/pexels-photo-5833238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+}
